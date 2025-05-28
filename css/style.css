@@ -87,7 +87,7 @@ figcaption {
 
 
 @media screen and (prefers-reduced-motion: reduce) {
-    body {
+    html {
     scroll-behavior:auto;
     }
 }
